@@ -7,5 +7,5 @@ Ainda em desenvolvimento
 Para baixar:
 
 ```
-git pull
+node app.js
 ```
