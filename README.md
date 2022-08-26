@@ -4,7 +4,7 @@ Ainda em desenvolvimento
 
 > Status: Desenvolvimento
 
-Para baixar:
+Para rodar...:
 
 ```
 node app.js
